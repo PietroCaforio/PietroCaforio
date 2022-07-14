@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pete2000
-- 👀 I’m interested in ... everything :D
 - 🌱 I’m currently a Computer Engineering student at University of Siena DIISM
 
 <!---
