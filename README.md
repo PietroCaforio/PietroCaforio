@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pete2000
+- 👋 Hi, I’m @PietroCaforio
 - 🌱 I’m currently a Computer Science and Engineering-Artificial Intelligence student at Politecnico di Milano
 
 <!---
